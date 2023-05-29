@@ -1,0 +1,2 @@
+*\example_folder
+*\example_folder2
